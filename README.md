@@ -7,7 +7,7 @@ Introducing TravelTime, a revolutionary solution designed to streamline your dai
 ## Features
 
 1. **Real-time Bus Information:** Utilizing ESP8266's Wi-Fi capabilities, TravelTime accesses online APIs to fetch and display accurate bus timings.
-2. **Clear and Intuitive Display:** The device employs 7-segment displays and an LED screen for a user-friendly and appealing presentation of bus timings.
+2. **Clear and Intuitive Display:** The device employs 7-segment displays and an LCD screen for a user-friendly and appealing presentation of bus timings.
 3. **Hassle-free Commuting:** Designed with simplicity in mind, TravelTime offers a quick and convenient glance at your next bus departure, reducing the need to constantly check mobile devices.
 
 ## Installation
