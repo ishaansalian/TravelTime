@@ -2,7 +2,7 @@
 
 ## Overview
 
-Introducing TravelTime, a revolutionary solution designed to streamline your daily commute. Crafted with the commuter in mind, this innovative project addresses the challenges of keeping track of bus timings, especially during the hustle and bustle of student life. By combining Arduino Uno and ESP8266 technologies, TravelTime provides a user-friendly device that prominently displays real-time bus information at key locations, ensuring you never miss your ride.
+Introducing TravelTime, a revolutionary solution designed to streamline your daily commute. Crafted with the commuter in mind, this innovative project addresses the challenges of keeping track of bus timings, especially during the hustle and bustle of student life. By combining Arduino Mega and ESP8266 technologies, TravelTime provides a user-friendly device that prominently displays real-time bus information at key locations, ensuring you never miss your ride.
 
 ## Features
 
@@ -14,7 +14,7 @@ Introducing TravelTime, a revolutionary solution designed to streamline your dai
 
 ## Hardware Setup:
 - Connect the components as per the provided code.
-- Flash the Arduino Uno with the designated hex file.
+- Flash the Arduino Mega with the designated hex file.
 
 ## 3D Printed Enclosure:
 - Print the 3D models for the enclosure, ensuring the box, hook, and mechanical spring are accurately reproduced.
